@@ -10,6 +10,7 @@ public class Anagram {
 		Arrays.sort(arrayS1);
 		Arrays.sort(arrayS2);
 		System.out.println("Given String is Praveen");
+		System.out.println("Given String is Praveen1");
 		
 		if(Arrays.equals(arrayS1, arrayS2)) {
 			System.out.println("Given String is Anagram");
