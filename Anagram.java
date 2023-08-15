@@ -18,7 +18,7 @@ public class Anagram {
 		else {
 			System.out.println("String is not a anagram");
 		}
-
+	System.out.println("Given String is Praveen1");
 	}
 
 }
