@@ -11,6 +11,7 @@ public class Anagram {
 		Arrays.sort(arrayS2);
 		System.out.println("String isPraveen");
 		System.out.println("String isPraveen");
+		System.out.println("String isPraveen");
 		
 		if(Arrays.equals(arrayS1, arrayS2)) {
 			System.out.println("Given String is Anagram");
