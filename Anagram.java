@@ -9,7 +9,7 @@ public class Anagram {
 		char[] arrayS2 = str2.toCharArray();
 		Arrays.sort(arrayS1);
 		Arrays.sort(arrayS2);
-		System.out.println("String isPraveen");
+		
 		System.out.println("String isPraveen");
 		System.out.println("String isPraveen");
 		
